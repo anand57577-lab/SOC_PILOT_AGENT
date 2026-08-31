@@ -125,8 +125,3 @@ npm run dev
 
 ---
 
-## 🏆 Evaluation Alignment
-
-- **Round 1 (Minimum Expectations)**: 5+ ML components integrated, alert grouping, anomaly detection, attack graph, and risk scoring.
-- **Round 2 (Quality Check)**: Multi-step agent evidence selection, incident state update after new evidence, measured noise reduction.
-- **Round 3 (Future-Ready)**: Side-by-side raw alert triage comparison, $90\%+$ workload reduction while preserving $100\%$ of true simulated incidents.
